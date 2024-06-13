@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zc0616
 - 👀 I’m interested in running and this is [my running page](https://zc0616.github.io/my_running/)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning deep learning.
+- 💞️ I’m looking to collaborate on AI Pharmaceuticals.
 - 📫 How to reach me ...
 
 <!---
